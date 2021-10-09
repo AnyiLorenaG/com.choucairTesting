@@ -1,5 +1,5 @@
 #Author: Lore-16@live.com
-# LaNGUAgE: EN
+# Language: en
 Feature:Validate that if you redirect employee portal
   As a commercial user,I want enter the job portal button
 

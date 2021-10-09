@@ -24,17 +24,9 @@ gradle/wrapper
 
 *.editorconfig
 
-*.build.gradle
-
-
-
-
-
-
-
+ 
 
 # Gradle
-
 
 log/
 
@@ -78,6 +70,9 @@ hs_err_pid*
 
  
 
+.gradle
+
+build/
 
 # Ignore Gradle GUI config
 
